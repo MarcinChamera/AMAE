@@ -1,0 +1,5 @@
+venv/
+wandb/
+artifacts/
+__pycache__/
+vector_store/
